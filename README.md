@@ -39,6 +39,28 @@ Instructions on how to perform all of these operations are described below.
 
 ![Your fork](http://russellgordon.ca/rsgc/2016-17/ics3u/yourfork.png)
 
+### To clone this repository and create a local working copy
 
+* Locate and press the green **"clone or download"** button:
 
+![Clone or download](http://russellgordon.ca/rsgc/2016-17/ics3u/clone-button.png)
 
+* Select and copy the repository address to your clipboard (Command-A then Command-C):
+
+![Get repo link](http://russellgordon.ca/rsgc/2016-17/ics3u/repo-link.png)
+
+* Open Xcode.
+
+* Select this menu sequence: Source Control > Check Out:
+
+![Check out menu item](http://russellgordon.ca/rsgc/2016-17/ics3u/checkout.png)
+
+* At the bottom of the dialog that appears, paste the address stored in your clipboard, and press Next.
+
+![Pasting repository address](http://russellgordon.ca/rsgc/2016-17/ics3u/repo-address.png)
+
+* At the next page, you will likely be asked to log in with your GitHub.com username and password. Do so.
+
+* Then you will be asked to choose **where to save** the local copy of the repository. This can be anywhere **except within a folder synced to Google Drive**.  Please **do not** save the repository inside a folder synced to Google Drive, as this will corrupt the repository's data!
+
+* You will see Xcode download and create the local working copy of your fork of this repository.
