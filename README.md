@@ -14,7 +14,19 @@ As a student, you do not have write access to this, the master repository.
 
 You will create a *fork* of this repository.
 
-To do this:
+Then, you will clone the forked repository to your computer, to create a *local working copy*.
+
+On your computer, a *remote origin* (a pointer to your forked repository on GitHub.com) will automatically be created for you.
+
+At regular intervals, you will *commit changes* to your local working copy of your repository (like pressing "Save" when editing an essay).
+
+At regular intervals, you will *push the changes* from your local working copy to your forked repository's remote origin on GitHub.com. This is like "handing in" your work, and **will replace making snaps on Sesame** going forward.
+
+Finally, on occasion, you will need to *pull and merge changes* from the master repository to obtain new activitie and opportunities to learn from me, your teacher.
+
+Instructions on how to perform all of these operations are described below.
+
+### To create a fork of this repository
 
 * Keep these instructions open in one window. Open a second browser window. [Navigate to the main page of the repository](https://github.com/rsgc-ics3u-2016/OpportunitiesToLearn).
 * Locate the *fork* button in the top right corner of the page, and click it.
