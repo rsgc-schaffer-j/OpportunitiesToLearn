@@ -14,7 +14,7 @@ As a student, you do not have write access to this, the master repository.
 
 You will [create a *fork* of this repository](https://github.com/rsgc-ics3u-2016/OpportunitiesToLearn/blob/master/README.md#to-create-a-fork-of-this-repository).
 
-Then, you will clone the forked repository to your computer, to create a *local working copy*.
+Then, you will [clone the forked repository to your computer](https://github.com/rsgc-ics3u-2016/OpportunitiesToLearn#to-clone-this-repository-and-create-a-local-working-copy), to create a *local working copy*.
 
 On your computer, a *remote origin* (a pointer to your forked repository on GitHub.com) will automatically be created for you.
 
