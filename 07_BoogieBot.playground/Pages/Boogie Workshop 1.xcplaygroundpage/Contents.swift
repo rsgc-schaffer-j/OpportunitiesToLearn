@@ -16,11 +16,46 @@
  `setBotTitle("My Awesome Dance")`\
  `setBotSubtitle("By The Boogiemaster")`
 */
+setBotTitle("My Awesome Dance")
+setBotSubtitle("By Jasper Schaffer")
 startBot()
 startRecording()
+func greatDance(){
+      fabulize()
+    leftArmUp()
+    leftArmDown()
+    rightArmUp()
+    rightArmDown()
+    leftLegUp()
+    leftLegDown()
+    rightLegUp()
+    rightLegDown()
+    shakeItLeft()
+    shakeItRight()
+    shakeItCenter()
+    jumpUp()
+    jumpDown()
+    fabulize()
+    defabulize()
+      fabulize()
+    leftArmUp()
+    leftArmDown()
+    rightArmUp()
+    rightArmDown()
+    leftLegUp()
+    leftLegDown()
+    rightLegUp()
+    rightLegDown()
+    shakeItLeft()
+    shakeItRight()
+    shakeItCenter()
+    jumpUp()
+    jumpDown()
+    fabulize()
+    defabulize()
+}
 
-
-
+greatDance()
 
 
 

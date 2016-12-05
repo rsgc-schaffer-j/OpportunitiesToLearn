@@ -16,7 +16,7 @@ func levelCost(heights heights: [Int], maxJump: Int)->Int{
     var total = 0
     var x = 1
     var y = 0
-    while x < heights.count{
+    for x in  1...heights.count-1{
         y = (heights[x]-heights[x-1])
         if y<0{
             y *= -1
@@ -28,7 +28,6 @@ func levelCost(heights heights: [Int], maxJump: Int)->Int{
         }else {
             return -1
         }
-        x+=1
     }
     return total
 }

@@ -19,6 +19,12 @@ fabulize()
 doTheDisco()
 doTheDisco()
 doTheDisco()
+doTheDisco()
+doTheDisco()
+doTheDisco()
+doTheDisco()
+
+doTheDisco()
 /*:
  Functions are the way programmers group blocks of work together. Recall from the Functions playground that functions help you in these ways:
  
@@ -34,3 +40,13 @@ doTheDisco()
  
  [Previous](@previous)  |  page 5 of 13  |  [Next: Sign Your Work](@next)
 */
+func doTheDiscoOppisite() {
+    rightArmUp()
+    shakeItLeft()
+    rightArmDown()
+    shakeItCenter()
+}
+doTheDiscoOppisite()
+doTheDiscoOppisite()
+doTheDiscoOppisite()
+doTheDiscoOppisite()
