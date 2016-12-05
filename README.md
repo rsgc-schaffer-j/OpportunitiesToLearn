@@ -22,7 +22,7 @@ At regular intervals, you will *commit changes* to your local working copy of yo
 
 At regular intervals, you will *push the changes* from your local working copy to your forked repository's remote origin on GitHub.com. This is like "handing in" your work, and **will replace making snaps on Sesame** going forward.
 
-Finally, on occasion, you will need to *pull and merge changes* from the master repository to obtain new activities and opportunities to learn from me, your teacher.  As a one-time setup item, you need to make a pointer to the remote copy of the master repository.
+Finally, on occasion, you will need to *pull and merge changes* from the master repository to obtain new activities and opportunities to learn from me, your teacher.  As a one-time setup item, you need to [make a pointer to the remote copy of the master repository](https://github.com/rsgc-ics3u-2016/OpportunitiesToLearn/blob/master/README.md#how-to-make-a-pointer-to-the-remote-master-repository).
 
 Instructions on how to perform all of these operations are described below.
 
