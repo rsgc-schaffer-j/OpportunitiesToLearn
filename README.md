@@ -88,3 +88,26 @@ Address: https://github.com/rsgc-ics3u-2016/OpportunitiesToLearn.git
 ![Adding remote options](http://russellgordon.ca/rsgc/2016-17/ics3u/remote-options.png)
 
 * Then press the **Add Remote** button.
+
+* You need to commit the changes (the addition of a new remote is a change).
+
+* Choose Source Control, then Commit:
+
+![Commit](http://russellgordon.ca/rsgc/2016-17/ics3u/commit.png)
+
+* In the commit sheet, make sure the checkbox beside the file is enabled, add a commit comment, be sure the checkbox beside **Push to remote** is enabled, then press the **Commit 1 File and Push** button:
+
+![Commit sheet](http://russellgordon.ca/rsgc/2016-17/ics3u/commit-sheet.png)
+
+### How to update from the class master repository
+
+* From the Source Control menu item, choose Pull:
+
+![Pull](http://russellgordon.ca/rsgc/2016-17/ics3u/pull.png)
+
+* In the **Pull remote changes** sheet that appears, choose the new remote you set up:
+
+![New repo](http://russellgordon.ca/rsgc/2016-17/ics3u/new-repo.png)
+
+(to be continued)
+
