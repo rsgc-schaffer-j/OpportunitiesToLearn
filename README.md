@@ -82,6 +82,7 @@ Instructions on how to perform all of these operations are described below.
 * In the **Name** field type *class-master-repository* and in the **Address** field, paste the address for the master repository (this is the repository you originally forked from):
 
 Name: class-master-repository
+
 Address: https://github.com/rsgc-ics3u-2016/OpportunitiesToLearn.git
 
 ![Adding remote options](http://russellgordon.ca/rsgc/2016-17/ics3u/remote-options.png)
