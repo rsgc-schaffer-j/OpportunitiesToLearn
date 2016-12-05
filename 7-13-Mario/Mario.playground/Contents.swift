@@ -26,7 +26,7 @@ func levelCost(heights heights: [Int], maxJump: Int)->Int{      //defining the f
         }else if y<=maxJump{
             total+=y*2
         }else {
-            return -1
+            return -1   //if too big of a step/jump
         }
     }
     return total
