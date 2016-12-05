@@ -12,7 +12,7 @@ This repository is the source of tutorials and activities that we will use in th
 
 As a student, you do not have write access to this, the master repository.
 
-You will create a *fork* of this repository.
+You will [create a *fork* of this repository](https://github.com/rsgc-ics3u-2016/OpportunitiesToLearn/blob/master/README.md#to-create-a-fork-of-this-repository).
 
 Then, you will clone the forked repository to your computer, to create a *local working copy*.
 
