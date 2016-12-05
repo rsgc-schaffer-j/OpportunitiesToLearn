@@ -22,7 +22,7 @@ At regular intervals, you will *commit changes* to your local working copy of yo
 
 At regular intervals, you will *push the changes* from your local working copy to your forked repository's remote origin on GitHub.com. This is like "handing in" your work, and **will replace making snaps on Sesame** going forward.
 
-Finally, on occasion, you will need to *pull and merge changes* from the master repository to obtain new activities and opportunities to learn from me, your teacher.
+Finally, on occasion, you will need to *pull and merge changes* from the master repository to obtain new activities and opportunities to learn from me, your teacher.  As a one-time setup item, you need to make a pointer to the remote copy of the master repository.
 
 Instructions on how to perform all of these operations are described below.
 
@@ -64,3 +64,26 @@ Instructions on how to perform all of these operations are described below.
 * Then you will be asked to choose **where to save** the local copy of the repository. This can be anywhere **except within a folder synced to Google Drive**.  Please **do not** save the repository inside a folder synced to Google Drive, as this will corrupt the repository's data!
 
 * You will see Xcode download and create the local working copy of your fork of this repository.
+
+### How to make a pointer to the remote master repository
+
+* Begin on the Source Control menu item, and follow the sequence shown to configure your project.
+
+![Configure your repository](http://russellgordon.ca/rsgc/2016-17/ics3u/configure-remote.png)
+
+* Click the **Remotes** option:
+
+![Remotes](http://russellgordon.ca/rsgc/2016-17/ics3u/configure-remote.png)
+
+* Click the + sign then choose **Add remotes** option:
+
+![Add remotes](http://russellgordon.ca/rsgc/2016-17/ics3u/add-remote.png)
+
+* In the **Name** field type *class-master-repository* and in the **Address** field, paste the address for the master repository (this is the repository you originally forked from):
+
+Name: class-master-repository
+Address: https://github.com/rsgc-ics3u-2016/OpportunitiesToLearn.git
+
+![Adding remote options](http://russellgordon.ca/rsgc/2016-17/ics3u/remote-options.png)
+
+* Then press the **Add Remote** button.
