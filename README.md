@@ -73,7 +73,7 @@ Instructions on how to perform all of these operations are described below.
 
 * Click the **Remotes** option:
 
-![Remotes](http://russellgordon.ca/rsgc/2016-17/ics3u/configure-remote.png)
+![Remotes](http://russellgordon.ca/rsgc/2016-17/ics3u/remotes.png)
 
 * Click the + sign then choose **Add remotes** option:
 
