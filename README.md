@@ -22,7 +22,7 @@ At regular intervals, you will *commit changes* to your local working copy of yo
 
 At regular intervals, you will *push the changes* from your local working copy to your forked repository's remote origin on GitHub.com. This is like "handing in" your work, and **will replace making snaps on Sesame** going forward.
 
-Finally, on occasion, you will need to *pull and merge changes* from the master repository to obtain new activitie and opportunities to learn from me, your teacher.
+Finally, on occasion, you will need to *pull and merge changes* from the master repository to obtain new activities and opportunities to learn from me, your teacher.
 
 Instructions on how to perform all of these operations are described below.
 
